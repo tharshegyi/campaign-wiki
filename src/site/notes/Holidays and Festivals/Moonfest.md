@@ -8,6 +8,6 @@ Moonfest is the last great festival of the calendar year, traditionally marking 
 
 The Moonfest festival starts as the sun sets on the last day before Lenior, the first month of winter. Warm food stalls line streets and buskers sing and perform spoken-word poems retelling great deeds until late in the night. As the sun sets, warriors gather for the Moonfest Tournament in the [[Sunol/Central Sunol/Eversun#Echospire\|Echospire]] amphitheatre in [[Sunol/Central Sunol/Eversun\|Eversun]], where fights are held to determine the two moon's warriors for the year.
 
-A melee competition is held first, with the victor crowned [[Beiria/The Moons/Naneth\|Naneth]]'s Warrior. A jousting competition concludes the festival, with the final victor crowned [[Beiria/The Moons/Adar\|Adar]]'s Warrior. Both competitions also paid a handsome sum of coin to the victors.
+A melee competition is held first, with the victor crowned [[Beiria/The Moons/Naneth\|Naneth]]'s Warrior. A jousting competition concludes the festival, with the final victor crowned [[Beiria/The Moons/Adar\|Adar]]'s Warrior. Both competitions also pay a handsome sum of coin to the victors.
 
 This holiday is particularly important to followers of [[Beiria/The Gods/The Soldier\|The Soldier]], who often travel to [[Sunol/Central Sunol/Eversun\|Eversun]] to take part in the Moonfest Tourney, and to followers of [[Beiria/The Gods/The Stranger\|The Stranger]], who often take extra time to pay respects to the dead and acknowledge the coming of winter in the cycle. 
