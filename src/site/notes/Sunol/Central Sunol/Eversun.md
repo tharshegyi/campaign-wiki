@@ -1,0 +1,49 @@
+---
+{"dg-publish":true,"permalink":"/sunol/central-sunol/eversun/"}
+---
+
+Eversun is the largest city on [[Sunol/Sunol\|Sunol]], and the main sea port and trading area for the continent. Sitting on the mouth of the [[Sunol/Central Sunol/Morning Bay\|Morning Bay]], it is home to some 130,000 people, and houses the Ambrose Keep from which the [[Sunol/The Royal Court\|The Royal Court]] (appointed by the royal [[Characters/The Court/King William Ambrose\|Ambrose]] family) does most of its ruling. While the royal [[Characters/The Court/King William Ambrose\|family]] and [[Sunol/The Royal Court\|court]] do most of the continents ruling from here, day to day management of the city falls to the Provost, [[Characters/The Court/Tanlin Sheb\|Tanlin Sheb]], the elected city representative.
+
+Eversun is known for its large port, where trade with other continents takes place across the [[Sunol/Sunol#Oceans of Sunol\|Great Sea]]. The largest export for the entire continent is the rare gemstone [[Sunol/Sunolusite\|Sunolusite]], which is packed and shipped from here after coming through the [[Sunol/The Red Basin/Red Basin\|Red Basin]] and [[Sunol/Central Sunol/Brightstone\|Brightstone]], down [[Sunol/Central Sunol/The Trade Way\|The Trade Way]]. 
+
+Eversun is also known for being the most technologically advanced place in [[Sunol/Sunol\|Sunol]]. Housing a large proportion of the continents artificers as they study and work out of [[Sunol/Central Sunol/Eversun Academy\|Eversun Academy]], the magical science of this place has an affect on citizens daily lives. Advanced technologies such as the tram network run throughout the city. Eversun is also the only place on [[Sunol/Sunol\|Sunol]] that you will find the shops of gunsmiths.
+
+There is a large river, [[Sunol/Central Sunol/The Dawn River\|The Dawn River]], that runs from [[Sunol/Southern Sunol/The Werewolf's Spine\|The Werewolf's Spine]] on the western coast, through the centre of the city, depositing into the [[Sunol/Sunol#Oceans of Sunol\|Great Sea]]. This river also branches out to the rolling hills of the [[Sunol/Southern Sunol/Dawn River Woodlands\|Dawn River Woodlands]] to the east of Eversun, and all the farmlands there that feed the city and beyond.
+
+As the largest city in the continent, Eversun is the centre of wealth for [[Sunol/Sunol\|Sunol]], and as such has a great number of adventuring guilds, businesses, and avenues in which to part with your gold. 
+
+###### Monuments
+###### Echospire
+Echospire is a large amphitheatre in [[Sunol/Central Sunol/Eversun#Old Eversun\|Old Eversun]] that was built as a monument to commemorate those lost in the [[Beiria/War of the Great Sea\|War of the Great Sea]] against the [[Beiria/Sukrea/Kingdom of Zaradorn\|Kingdom of Zaradorn]]. It is a grand stone structure, with soaring arches and vast open sides, that hosts a number of festivals, feasts, and night markets throughout the year.
+
+The festival of [[Holidays and Festivals/Adar's Rest\|Adar's Rest]], held on the leap year day every three years, finds this building decked out in magical lights for a series of competitions of magical and martial prowess overseen by the [[Characters/The Court/King William Ambrose\|King]] himself, as well as a huge festival market.
+###### Timekeeper's Watch
+Timekeeper's Watch is a large clocktower and landmark, almost 150 feet tall, in the [[Sunol/Central Sunol/Eversun#Scholar’s District\|Scholar's District]] of Eversun. Near the coastline of [[Sunol/Central Sunol/The Dawn River\|The Dawn River]], it is large enough to be seen, and heard on the hour, from most of the [[Sunol/Central Sunol/Eversun#Trades District\|Trades District]], [[Sunol/Central Sunol/Eversun#Merchant District\|Merchant District]], and [[Sunol/Central Sunol/Eversun#Old Eversun\|Old Eversun]]. It was built early in the founding of the city, alongside the old buildings that have now become the [[Sunol/Central Sunol/Eversun Academy\|Eversun Academy]].
+
+Students of the [[Sunol/Central Sunol/Eversun Academy\|Eversun Academy]] are known to sync their watches to the time of the Timekeeper's Watch, as classes run exactly to the ringing of it's bells.
+##### Districts
+###### Fisherman's Docks 
+The Fisherman's Docks is the poorest district inside of Eversun, where mostly poor sailors and their families make a home and sell their catches. Most of the housing in this district is poor slums and hovels, with some nicer but overpopulated housing nearer the [[Sunol/Central Sunol/Eversun#Spice District\|Spice District]]. There is also a number of warehouses and some other less desirable trade centers in this district.
+###### North and West Slums (The Spill and The Narrows)
+Outside of the city walls the North and West slums house people too poor to live in even the [[Sunol/Central Sunol/Eversun#Fisherman's Docks\|Fisherman's Docks]]. These slums don't have official names, but are colloquially called 'The Spill' to the North, and 'The Narrows' to the West. Sometimes cheap market stalls are transiently set up outside the gates for people living there to sell what they can grow and scavenge to people from the city.
+###### Spice District 
+The Spice District is a lively section of Eversun, with some lower tier trade centres, simple mom-and-pop shops, farmers markets, sleazy taverns, races, and fighting pits. The buildings in this district are quite simple and run down, but a fair sight better than those in [[Sunol/Central Sunol/Eversun#Fisherman's Docks\|Fisherman's Docks]]. The primary marketplace of the lower-middle class, the [[Sunol/Central Sunol/Morning Bay Markets\|Morning Bay Markets]], is run in this district.
+###### Trades District 
+The Trades District is barely distinct from the [[Sunol/Central Sunol/Eversun#Spice District\|Spice District]], just slightly more affluent with nicer housing and taverns, better shops, and a number of well-loved taverns, such as [[Entities/The Lady and The Jester\|The Lady and The Jester]]. This is the district for everyday tiers of tailors, blacksmiths, alchemists, gunsmiths, and other professionals. This district is also home to the [[Guilds/Fool's Gold Adventurers Guild\|Fool's Gold Adventurers Guild]].
+###### Plain's Way
+Plain's way spill out of the [[Sunol/Central Sunol/Eversun#Trades District\|Trades District]] along [[Sunol/Central Sunol/The Trade Way\|The Trade Way]], and features some small and medium sized houses for people who prefer to be close to the city, but outside the busiest streets. Some small shops line [[Sunol/Central Sunol/The Trade Way\|The Trade Way]] as you get closer to Eversun.
+###### Scholar’s District 
+The Scholar's District mostly focuses on magic and learning, as the name suggests. The main attractions in this district are the university, [[Sunol/Central Sunol/Eversun Academy\|Eversun Academy]], and the [[Sunol/Central Sunol/Eversun Library\|Eversun Library]]. This district also has a high concentration of healers, enchanted items shops, and wizards towers. 
+###### Merchant District 
+The Merchant District is the centre for higher tier shops - nice seamstresses, jewellers, vintage shops that contain some magic items, fancy taverns, etc. Housing here is primarily of a quite high tier. It is also the home of the [[Guilds/Banner Vale Adventurers Guild\|Banner Vale Adventurers Guild]], and many locales of entertainment, such as the The Twilight Theatre and [[Beiria/The Gods/The Soldier\|The Soldier]]'s Arena colosseum.
+###### Old Eversun
+Old Eversun is a historical district on [[Sunol/Central Sunol/The Dawn River\|The Dawn River]], with many old a remodelled houses build when Eversun was first settled. It has the biggest mix of wealthy and poor of any district in Eversun, with its proximity to both [[Sunol/Central Sunol/Eversun#Fisherman's Docks\|Fisherman's Docks]] and the wealthy [[Sunol/Central Sunol/Eversun#Merchant District\|Merchant]] and [[Sunol/Central Sunol/Eversun#Scholar’s District\|Scholar's]] districts. It also is the site of the Eversun Docks, where the richest passenger and trade ships land, rather than landing in [[Sunol/Central Sunol/Eversun#Fisherman's Docks\|Fisherman's Docks]]. Docks workers are better paid on this side of [[Sunol/Central Sunol/The Dawn River\|The Dawn River]]. Old Eversun also houses a large amphitheatre, [[Sunol/Central Sunol/Eversun#Echospire\|Echospire]], where many festivals are held, such as a huge celebration on [[Holidays and Festivals/Adar's Rest\|Adar's Rest]] and the [[Holidays and Festivals/Moonfest\|Moonfest]] tournament.
+###### Court District
+The Court District houses many politicians, aspiring and actual, and many of those wealthy enough to aim to interact with the cities elites, but not wealthy enough to own propery in [[Sunol/Central Sunol/Eversun#King’s Corner\|King's Corner]]. Notable landmarks of the court district include  the Chamber of [[Beiria/The Gods/The Father\|The Father]], the premier Courthouse of [[Sunol/Sunol\|Sunol]].
+###### Ambrose Keep
+Ambrose Keep is the home of the [[Characters/The Court/King William Ambrose\|King William Ambrose]] and workplace of [[Sunol/The Royal Court\|The Royal Court]], from which they make decisions which affect all of [[Sunol/Sunol\|Sunol]].
+###### King’s Corner
+King's Corner is home to the richest people in Eversun, even the [[Characters/The Court/King William Ambrose\|King]] himself owns property here. Large manors and fine parks mark this southern district. Some sprawling estates spill outside the city gates and stretch down [[Sunol/Southern Sunol/Sunspire#Hallam's Climb\|Hallam's Climb]]. 
+
+###### Eversun Map
+![Eversun.jpg](/img/user/x.attachments/Eversun.jpg)

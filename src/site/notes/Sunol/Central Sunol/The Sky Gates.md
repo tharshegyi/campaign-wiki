@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/sunol/central-sunol/the-sky-gates/"}
+---
+
+The Sky Gates are a large mountain range that separates the higher altitude [[Sunol/The Red Basin/Red Basin\|Red Basin]] to the North from the lower [[Sunol/Central Sunol/Central Sunol\|Central]] and [[Sunol/Southern Sunol/Southern Sunol\|Southern]] lands. The mountain range has a single valley ([[Sunol/Central Sunol/The Gateway\|The Gateway]]) that slopes downwards from the [[Sunol/The Red Basin/The Blazing Steps\|The Blazing Steps]] at the edge of the [[Sunol/The Red Basin/Red Basin\|Red Basin]] in the North, to [[Sunol/Central Sunol/Brightstone\|Brightstone]] at the southern mouth of the mountain opening.
+
+A road called [[Sunol/The Red Basin/The Blazing Steps\|The Blazing Steps]] travels through The [[Sunol/The Red Basin/Red Basin\|Red Basin]] from the edge of [[Sunol/Central Sunol/The Gateway\|The Gateway]], south to the gates of [[Sunol/Central Sunol/Brightstone\|Brightstone]]. Within the Gateway, at the Northern entrance to [[Sunol/Central Sunol/Brightstone\|Brightstone]], many small stalls are set up along the road and backing against the mountains. These stalls are manned primarily by those who live in The [[Sunol/The Red Basin/Red Basin\|Red Basin]], selling what they have gathered, either by mining or scavenging from those who entered the desert unprepared.
+
+While the common [[Sunol/Races\|Races]] mostly traverse The Sky Gates at ground level through [[Sunol/Central Sunol/The Gateway\|The Gateway]], colonies of Aarakokra are known to make their homes on the top of The Sky Gates. These communities are quite advanced, if isolated, and are known to do trade with [[Sunol/Central Sunol/Brightstone\|Brightstone]] not infrequently.

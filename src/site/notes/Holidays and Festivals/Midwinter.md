@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/holidays-and-festivals/midwinter/"}
+---
+
+Midwinter (also known as [[Beiria/The Gods/The Stranger\|Stranger]]'s Day) is an additional day of the [[Sunol/Sunol#Calendar of Zyklus\|Calendar of Zyklus]], that falls between Ethirnis 30 and Sonara 1 (the 1st and 2nd months of the year). It occurs on the 31st day of the year.
+
+Midwinter is a festival to mark the midpoint of winter in the [[Sunol/Sunol#Calendar of Zyklus\|Calendar of Zyklus]]. It marks the point in the [[Beiria/The Gods/The Stranger\|The Stranger]]'s cycle of winter, where we are moving towards spring again. It is also commonly associated with death, as it is a time where the plants have frozen and a stretch of hard times still remain. This day is special to followers of [[Beiria/The Gods/The Stranger\|The Stranger]], both optimistically as a point in the cycle of the year and the cycle of growth and death, and less optimistically as a time of passing.
+
+Traditionally, this is considered a time to set plans for the coming year, and a time to check in on your loved ones during the hard winter months. Those celebrating will often set out in warm clothes and blank masks, to both protect themselves from the chill and to honour [[Beiria/The Gods/The Stranger\|The Stranger]], and then have a small feast of foods hoarded for the celebration to bring some joy in the darkest months.
+
+This festival is celebrated to some extent throughout most of [[Sunol/Sunol\|Sunol]], with winter markets in the snow in [[Sunol/Central Sunol/Eversun\|Eversun]], and night markets in [[Sunol/The Red Basin/Vein's End\|Vein's End]] where the winter's chill brings a cool change that is appreciated in the desert. 
+
+It is also celebrated with a great festival in [[Sunol/Central Sunol/Raven Plains#Dulkharth\|Dulkhearth]], a small town in the [[Sunol/Central Sunol/Raven Plains\|Raven Plains]] with many devout followers of [[Beiria/The Gods/The Stranger\|The Stranger]]. In [[Sunol/Central Sunol/Raven Plains#Dulkharth\|Dulkhearth]], the celebration lasts for the 3 days and nights of [[Beiria/The Moons/Adar\|Adar]]'s orbit, whichever orientation it is in when Midwinter falls. It is considered a dark omen for the coming year when Midwinter falls on Adar's absence, and the festival is carried out in the darker nights, or a good omen of [[Beiria/The Gods/The Stranger\|The Stranger]]'s blessing when [[Beiria/The Moons/Adar\|Adar]] brightens the nights of the festival.
